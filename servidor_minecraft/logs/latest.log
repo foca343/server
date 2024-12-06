@@ -14962,3 +14962,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:deleted_mod_element'
 [06Dec2024 15:49:45.452] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, 15], pos: BlockPos{x=-117, y=-30, z=240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / duneons:restonegolemboss]
 [06Dec2024 15:49:45.452] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, 15], pos: BlockPos{x=-117, y=-30, z=241}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / duneons:restonegolemboss]
 [06Dec2024 15:49:45.452] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, 15], pos: BlockPos{x=-116, y=-30, z=240}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / duneons:restonegolemboss]
+[06Dec2024 15:54:06.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 15:55:15.964] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 15:55:44.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 15:57:20.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 15:59:03.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 15:59:03.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 16:00:54.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 16:00:54.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
+[06Dec2024 16:01:38.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duneons:mossyskeleton but it was marked as removed already
