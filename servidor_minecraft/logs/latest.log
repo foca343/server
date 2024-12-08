@@ -2004,3 +2004,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 19:06:19.503] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [08Dec2024 19:06:40.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [It Belongs in a Museum]
 [08Dec2024 19:09:00.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Acquire Hardware]
+[08Dec2024 19:20:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Suit Up]
+[08Dec2024 19:29:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Diamonds!]
