@@ -2008,3 +2008,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 19:29:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Diamonds!]
 [08Dec2024 19:36:49.442] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player natsu just tried to change non-editable sign
 [08Dec2024 19:36:50.869] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player natsu just tried to change non-editable sign
+[08Dec2024 20:05:15.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Who You Gonna Call?]
+[08Dec2024 20:12:41.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15304, l='ServerLevel[world]', x=53.83, y=75.02, z=587.42] died, message: 'Villager was slain by Zombie'
+[08Dec2024 20:12:55.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15245, l='ServerLevel[world]', x=15.76, y=73.66, z=568.63] died, message: 'Fisherman was slain by Zombie'
+[08Dec2024 20:13:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has completed the challenge [Premium!]
