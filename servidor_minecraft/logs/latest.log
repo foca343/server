@@ -2016,3 +2016,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 20:26:20.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15260, l='ServerLevel[world]', x=20.17, y=64.00, z=507.54] died, message: 'Villager was slain by Zombie'
 [08Dec2024 20:39:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Magery]
 [08Dec2024 20:39:50.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18579, l='ServerLevel[world]', x=41.63, y=63.94, z=515.28] died, message: 'Nitwit was slain by Zombie'
+[08Dec2024 20:41:18.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18580, l='ServerLevel[world]', x=25.62, y=69.12, z=490.56] died, message: 'Villager was slain by Zombie'

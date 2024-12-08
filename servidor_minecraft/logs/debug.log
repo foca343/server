@@ -11887,3 +11887,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 20:40:18.005] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [d53f4171-b069-4f86-b390-f91fbe1b80bd]
 [08Dec2024 20:40:27.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 20:40:27.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 20:41:00.908] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [858a2e67-3bee-4c8f-a627-015f3f5275be]
+[08Dec2024 20:41:06.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [858a2e67-3bee-4c8f-a627-015f3f5275be]
+[08Dec2024 20:41:16.821] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f908c1b5-2407-4e89-8b9c-247c56a504e0]
+[08Dec2024 20:41:18.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18580, l='ServerLevel[world]', x=25.62, y=69.12, z=490.56] died, message: 'Villager was slain by Zombie'
+[08Dec2024 20:41:30.185] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [f908c1b5-2407-4e89-8b9c-247c56a504e0]
+[08Dec2024 20:41:36.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [5bab31f9-11a3-4e80-8475-e7296546b9d0]
+[08Dec2024 20:41:49.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [71a256b8-3148-464e-ad73-3918707b070c]
+[08Dec2024 20:41:50.853] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [5bab31f9-11a3-4e80-8475-e7296546b9d0]
+[08Dec2024 20:41:53.301] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [5bab31f9-11a3-4e80-8475-e7296546b9d0]
+[08Dec2024 20:41:59.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [5bab31f9-11a3-4e80-8475-e7296546b9d0]
+[08Dec2024 20:42:09.386] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [71a256b8-3148-464e-ad73-3918707b070c]
+[08Dec2024 20:43:40.357] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [2d6fca5c-0914-4d19-aaa3-923792124a1a]
+[08Dec2024 20:43:41.672] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [2d6fca5c-0914-4d19-aaa3-923792124a1a]
+[08Dec2024 20:43:59.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fa14ee9e-362f-4717-b738-40898aa4bd63]
+[08Dec2024 20:44:09.973] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fa14ee9e-362f-4717-b738-40898aa4bd63]
+[08Dec2024 20:44:18.222] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fa14ee9e-362f-4717-b738-40898aa4bd63]
+[08Dec2024 20:44:19.843] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fa14ee9e-362f-4717-b738-40898aa4bd63]
+[08Dec2024 20:45:22.363] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc94aa56-c636-4ba1-9a99-674eba24f112]
+[08Dec2024 20:45:26.904] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [406a1792-79d2-4a61-b7b7-7913d2b50040]
+[08Dec2024 20:45:27.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 20:45:27.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 20:45:31.975] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc94aa56-c636-4ba1-9a99-674eba24f112]
+[08Dec2024 20:45:36.604] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc94aa56-c636-4ba1-9a99-674eba24f112]
+[08Dec2024 20:45:38.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [406a1792-79d2-4a61-b7b7-7913d2b50040]
+[08Dec2024 20:45:42.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc94aa56-c636-4ba1-9a99-674eba24f112]
+[08Dec2024 20:45:44.055] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc94aa56-c636-4ba1-9a99-674eba24f112]
+[08Dec2024 20:45:50.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc94aa56-c636-4ba1-9a99-674eba24f112]
+[08Dec2024 20:46:03.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:46:03.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:46:04.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:46:04.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:46:05.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:46:06.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:47:23.354] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [bd1df59a-f767-43dc-9b94-e807c9dcf4af]
+[08Dec2024 20:47:27.406] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [2ffe8179-307a-4747-8391-cb1e0c3dd7fd]
+[08Dec2024 20:47:30.288] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:47:30.836] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:47:31.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:47:31.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:47:32.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:47:33.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Dec2024 20:50:27.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 20:50:27.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
