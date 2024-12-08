@@ -2012,3 +2012,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 20:12:41.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15304, l='ServerLevel[world]', x=53.83, y=75.02, z=587.42] died, message: 'Villager was slain by Zombie'
 [08Dec2024 20:12:55.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/15245, l='ServerLevel[world]', x=15.76, y=73.66, z=568.63] died, message: 'Fisherman was slain by Zombie'
 [08Dec2024 20:13:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has completed the challenge [Premium!]
+[08Dec2024 20:26:15.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/15750, l='ServerLevel[world]', x=20.42, y=64.00, z=515.68] died, message: 'Leatherworker was slain by Zombie'
+[08Dec2024 20:26:20.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15260, l='ServerLevel[world]', x=20.17, y=64.00, z=507.54] died, message: 'Villager was slain by Zombie'
