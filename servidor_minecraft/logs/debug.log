@@ -8149,3 +8149,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 19:35:27.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Dec2024 19:36:49.442] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player natsu just tried to change non-editable sign
 [08Dec2024 19:36:50.869] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player natsu just tried to change non-editable sign
+[08Dec2024 19:40:27.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:40:27.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 19:45:27.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 19:45:27.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
