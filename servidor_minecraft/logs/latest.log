@@ -2006,3 +2006,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 19:09:00.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Acquire Hardware]
 [08Dec2024 19:20:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Suit Up]
 [08Dec2024 19:29:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Diamonds!]
+[08Dec2024 19:36:49.442] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player natsu just tried to change non-editable sign
+[08Dec2024 19:36:50.869] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player natsu just tried to change non-editable sign
