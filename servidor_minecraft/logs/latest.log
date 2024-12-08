@@ -2017,3 +2017,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [08Dec2024 20:39:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu has made the advancement [Magery]
 [08Dec2024 20:39:50.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18579, l='ServerLevel[world]', x=41.63, y=63.94, z=515.28] died, message: 'Nitwit was slain by Zombie'
 [08Dec2024 20:41:18.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18580, l='ServerLevel[world]', x=25.62, y=69.12, z=490.56] died, message: 'Villager was slain by Zombie'
+[08Dec2024 20:57:41.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/15380, l='ServerLevel[world]', x=17.21, y=64.00, z=508.98] died, message: 'Leatherworker was slain by Zombie'
+[08Dec2024 20:58:47.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natsu lost connection: Timed out
+[08Dec2024 20:58:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: natsu left the game
+[08Dec2024 20:58:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Dec2024 20:58:50.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 20:58:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 20:58:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 20:58:51.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 20:58:52.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 20:58:52.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 20:58:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 20:58:52.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 20:58:52.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 20:58:52.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
