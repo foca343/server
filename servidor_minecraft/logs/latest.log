@@ -2279,3 +2279,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [18Dec2024 02:31:03.418] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
 [18Dec2024 02:31:03.420] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
 [18Dec2024 02:31:10.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Man From The Fog
+[18Dec2024 02:37:20.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Ghost Riders In The Sky]
+[18Dec2024 02:38:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Ghost Riders In The Sky]
+[18Dec2024 02:45:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Diamonds!]

@@ -343,6 +343,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-18 01:18:47 +0000",
       "minecraft:spider": "2024-12-18 01:39:55 +0000",
+      "minecraft:creeper": "2024-12-18 02:44:26 +0000",
       "minecraft:wither_skeleton": "2024-12-18 01:59:19 +0000",
       "minecraft:cave_spider": "2024-12-18 01:46:09 +0000",
       "minecraft:silverfish": "2024-12-18 02:02:48 +0000",
@@ -1839,6 +1840,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-18 02:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-18 01:36:25 +0000"
@@ -1914,6 +1921,12 @@
   "spartanweaponry:root": {
     "criteria": {
       "has_pole": "2024-12-18 02:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-18 02:35:58 +0000"
     },
     "done": true
   },
