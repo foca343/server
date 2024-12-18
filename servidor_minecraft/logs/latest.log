@@ -2282,3 +2282,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [18Dec2024 02:37:20.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Ghost Riders In The Sky]
 [18Dec2024 02:38:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Ghost Riders In The Sky]
 [18Dec2024 02:45:39.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Diamonds!]
+[18Dec2024 02:50:05.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Spooky Scary Skeleton]
+[18Dec2024 02:51:46.767] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:51:46.769] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:51:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Magic Writing]
+[18Dec2024 02:52:10.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 withered away
+[18Dec2024 02:52:35.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has reached the goal [I see clearly now]
+[18Dec2024 02:52:53.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Ambush]
+[18Dec2024 02:53:31.814] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:53:31.820] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:53:58.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Hoglin
+[18Dec2024 02:55:40.601] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 02:55:40.601] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:55:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was doomed to fall
