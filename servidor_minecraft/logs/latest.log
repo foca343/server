@@ -2089,3 +2089,144 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [18Dec2024 01:07:21.947] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [18Dec2024 01:10:20.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 lost connection: Disconnected
 [18Dec2024 01:10:20.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 left the game
+[18Dec2024 01:15:17.969] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c97a262[id=<null>,name=Matiasx2738,properties={},legacy=false] (/100.98.221.107:50980) lost connection: Disconnected
+[18Dec2024 01:15:20.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matiasx2738[/100.98.221.107:50981] logged in with entity id 7682 at (-105.14500872203283, 63.0, 176.13325058249367)
+[18Dec2024 01:15:20.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 joined the game
+[18Dec2024 01:18:47.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Monster Hunter]
+[18Dec2024 01:20:38.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/761, l='ServerLevel[world]', x=141.53, y=64.00, z=59.96] died, message: 'Farmer was slain by Zombie'
+[18Dec2024 01:21:14.017] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:21:14.029] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:22:10.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/764, l='ServerLevel[world]', x=78.30, y=75.94, z=38.63] died, message: 'Cartographer was slain by Zombie'
+[18Dec2024 01:22:13.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Husk
+[18Dec2024 01:22:13.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Your First Grave]
+[18Dec2024 01:22:15.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [The Most Useful Key]
+[18Dec2024 01:24:24.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Monster Hunter]
+[18Dec2024 01:25:05.315] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:25:05.322] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:25:36.518] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 01:25:36.526] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 01:25:59.716] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:25:59.722] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:26:13.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Skeleton
+[18Dec2024 01:26:21.616] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 01:26:21.624] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 01:26:36.563] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:26:36.571] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:26:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Knowledge of Death]
+[18Dec2024 01:26:43.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has reached the goal [Chain Death]
+[18Dec2024 01:26:43.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Skeleton
+[18Dec2024 01:26:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was slain by Skeleton
+[18Dec2024 01:27:05.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Knowledge of Death]
+[18Dec2024 01:27:05.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has reached the goal [A Fast Comeback]
+[18Dec2024 01:27:29.915] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:27:29.920] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:27:35.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Husk
+[18Dec2024 01:27:42.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Acquire Hardware]
+[18Dec2024 01:29:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [A Strange Grave Dust]
+[18Dec2024 01:30:01.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Acquire Hardware]
+[18Dec2024 01:30:02.168] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:30:02.173] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:30:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Skeleton
+[18Dec2024 01:30:13.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Isn't It Iron Pick]
+[18Dec2024 01:30:40.615] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:30:40.618] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:30:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Skeleton
+[18Dec2024 01:31:16.719] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:31:16.721] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:31:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by l33gato
+[18Dec2024 01:32:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has reached the goal [Feeling Watched]
+[18Dec2024 01:32:59.619] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 01:32:59.621] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 01:33:09.617] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:33:09.619] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:33:10.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Stone Age]
+[18Dec2024 01:33:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Man From The Fog
+[18Dec2024 01:33:21.669] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because the return value of "java.util.Optional.orElse(Object)" is null
+	Index: 5
+	Listeners:
+		0: HIGHEST
+		1: ASM: class twilightforest.events.CharmEvents applyDeathItems(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		2: ASM: team.creative.playerrevive.server.ReviveEventServer@34e47f1b playerDied(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		3: NORMAL
+		4: ASM: class net.mcreator.man.procedures.KilledManProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		5: ASM: class net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		6: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@1bf6bfd5 livingDie(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		7: ASM: class io.redspace.ironsspellbooks.player.ServerPlayerEvents onLivingDeathEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		8: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@593b117a onEntityDie(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		9: LOWEST
+		10: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because the return value of "java.util.Optional.orElse(Object)" is null
+	at TRANSFORMER/man@1.4/net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure.execute(JumpscareDisplayOverlayIngameProcedure.java:96)
+	at TRANSFORMER/man@1.4/net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure.onEntityDeath(JumpscareDisplayOverlayIngameProcedure.java:49)
+	at TRANSFORMER/man@1.4/net.mcreator.man.procedures.__JumpscareDisplayOverlayIngameProcedure_onEntityDeath_LivingDeathEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573)
+	at TRANSFORMER/playerrevive@2.0.29/team.creative.playerrevive.server.PlayerReviveServer.kill(PlayerReviveServer.java:89)
+	at TRANSFORMER/playerrevive@2.0.29/team.creative.playerrevive.packet.GiveUpPacket.executeServer(GiveUpPacket.java:20)
+	at TRANSFORMER/creativecore@2.12.17/team.creative.creativecore.common.network.CreativePacket.execute(CreativePacket.java:14)
+	at TRANSFORMER/creativecore@2.12.17/team.creative.creativecore.common.network.CreativeNetwork.lambda$registerType$2(CreativeNetwork.java:57)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[18Dec2024 01:33:21.671] [Server thread/ERROR] [creativecore/]: Executing a packet ran into an exception
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_9236_()" because the return value of "java.util.Optional.orElse(Object)" is null
+	at net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure.execute(JumpscareDisplayOverlayIngameProcedure.java:96) ~[The-Man-From-The-Fog-1.4-1.20.1.jar%23142!/:?]
+	at net.mcreator.man.procedures.JumpscareDisplayOverlayIngameProcedure.onEntityDeath(JumpscareDisplayOverlayIngameProcedure.java:49) ~[The-Man-From-The-Fog-1.4-1.20.1.jar%23142!/:?]
+	at net.mcreator.man.procedures.__JumpscareDisplayOverlayIngameProcedure_onEntityDeath_LivingDeathEvent.invoke(.dynamic) ~[The-Man-From-The-Fog-1.4-1.20.1.jar%23142!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303) ~[forge-1.20.1-47.3.7-universal.jar%23152!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6667_(ServerPlayer.java:573) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at team.creative.playerrevive.server.PlayerReviveServer.kill(PlayerReviveServer.java:89) ~[PlayerRevive_FORGE_v2.0.29_mc1.20.1.jar%23137!/:2.0.29]
+	at team.creative.playerrevive.packet.GiveUpPacket.executeServer(GiveUpPacket.java:20) ~[PlayerRevive_FORGE_v2.0.29_mc1.20.1.jar%23137!/:2.0.29]
+	at team.creative.creativecore.common.network.CreativePacket.execute(CreativePacket.java:14) ~[CreativeCore_FORGE_v2.12.17_mc1.20.1.jar%23128!/:2.12.17]
+	at team.creative.creativecore.common.network.CreativeNetwork.lambda$registerType$2(CreativeNetwork.java:57) ~[CreativeCore_FORGE_v2.12.17_mc1.20.1.jar%23128!/:2.12.17]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23147!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18Dec2024 01:33:36.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 was kicked for floating too long!
+[18Dec2024 01:33:36.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 lost connection: Disconnected
+[18Dec2024 01:33:36.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 left the game
+[18Dec2024 01:33:36.515] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 01:33:41.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matiasx2738[/100.98.221.107:51074] logged in with entity id 11713 at (102.26071165731199, 93.28549238931866, 30.44725623455425)
+[18Dec2024 01:33:41.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 joined the game
+[18Dec2024 01:36:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Isn't It Iron Pick]
+[18Dec2024 01:36:49.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Getting an Upgrade]
+[18Dec2024 01:37:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Getting an Upgrade]
+[18Dec2024 01:37:34.420] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 01:37:34.422] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 01:37:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was shot by Skeleton
+[18Dec2024 01:39:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Ashes 'n Bones]
+[18Dec2024 01:42:19.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Suit Up]
+[18Dec2024 01:43:45.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Suit Up]
+[18Dec2024 01:43:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [A Strange Grave Dust]
+[18Dec2024 01:45:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Not Today, Thank You]
