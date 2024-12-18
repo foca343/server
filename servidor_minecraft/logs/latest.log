@@ -2245,3 +2245,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [18Dec2024 02:05:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Diamonds!]
 [18Dec2024 02:05:33.668] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
 [18Dec2024 02:05:33.670] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:08:41.115] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 02:08:41.117] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:09:12.714] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 02:09:12.717] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:10:04.119] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 02:10:04.121] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:10:31.066] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:10:31.068] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:10:39.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 hit the ground too hard
+[18Dec2024 02:10:42.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was shot by Skeleton
+[18Dec2024 02:10:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has reached the goal [A Fast Comeback]
+[18Dec2024 02:11:00.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Cover Me with Diamonds]
+[18Dec2024 02:12:26.668] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:12:26.670] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:13:02.967] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:13:02.969] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:13:50.066] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:13:50.069] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:14:38.715] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:14:38.718] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:15:23.717] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 02:15:23.719] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:15:27.766] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 02:15:27.770] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 02:15:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by Zombie
