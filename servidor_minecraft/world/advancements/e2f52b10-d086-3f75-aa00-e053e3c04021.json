@@ -2269,6 +2269,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "zombie_head": "2024-12-18 03:28:09 +0000",
       "skeleton_skull": "2024-12-18 03:04:19 +0000"
     },
     "done": false

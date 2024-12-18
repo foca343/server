@@ -796,6 +796,7 @@
       "golden_apple": "2024-12-18 01:32:08 +0000",
       "rotten_flesh": "2024-12-18 01:25:23 +0000",
       "golden_carrot": "2024-12-18 02:53:04 +0000",
+      "cooked_chicken": "2024-12-18 03:26:50 +0000",
       "carrot": "2024-12-18 01:46:54 +0000"
     },
     "done": false
@@ -3219,7 +3220,9 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "wither_skeleton_skull": "2024-12-18 02:50:05 +0000"
+      "zombie_head": "2024-12-18 03:28:04 +0000",
+      "wither_skeleton_skull": "2024-12-18 02:50:05 +0000",
+      "skeleton_skull": "2024-12-18 03:33:42 +0000"
     },
     "done": false
   },
@@ -3409,6 +3412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 03:28:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-18 03:13:36 +0000"
@@ -3439,9 +3448,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-18 03:27:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-18 03:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 03:28:40 +0000"
     },
     "done": true
   },
@@ -3454,6 +3475,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-18 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-18 03:35:51 +0000"
     },
     "done": true
   },
@@ -3559,6 +3586,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-18 03:35:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_katana_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-18 03:13:36 +0000"
@@ -3583,9 +3622,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 03:28:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-18 03:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-18 03:27:18 +0000"
     },
     "done": true
   },

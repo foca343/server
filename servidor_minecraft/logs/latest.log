@@ -2337,3 +2337,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [18Dec2024 03:13:11.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Who You Gonna Call?]
 [18Dec2024 03:17:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <l33gato> 66 99 591
 [18Dec2024 03:21:52.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l33gato moved too quickly! -2.200111409570141,-18.0,-3.5107481850889144
+[18Dec2024 03:35:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has reached the goal [A little cleaning is necessary]
+[18Dec2024 03:35:51.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has reached the goal [Death Will Not Be Enough]
+[18Dec2024 03:35:56.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 lost connection: Disconnected
+[18Dec2024 03:35:56.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 left the game
+[18Dec2024 03:35:59.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l33gato lost connection: Disconnected
+[18Dec2024 03:35:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato left the game
+[18Dec2024 03:36:14.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Dec2024 03:36:14.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 03:36:14.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 03:36:14.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 03:36:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 03:36:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Dec2024 03:36:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Dec2024 03:36:15.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 03:36:15.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 03:36:15.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 03:36:15.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Dec2024 03:36:15.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Dec2024 03:36:15.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 03:36:15.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 03:36:15.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
