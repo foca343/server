@@ -2074,3 +2074,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [18Dec2024 01:03:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was slain by Man From The Fog
 [18Dec2024 01:03:05.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Your First Grave]
 [18Dec2024 01:03:15.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [The Most Useful Key]
+[18Dec2024 01:04:51.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matiasx2738[/100.98.221.107:56427] logged in with entity id 4555 at (-7.5, 93.0, 8.5)
+[18Dec2024 01:04:51.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 joined the game
+[18Dec2024 01:04:51.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Christmas]
+[18Dec2024 01:04:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Ice and Fire]
+[18Dec2024 01:05:08.447] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 01:05:08.448] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:05:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was slain by l33gato
+[18Dec2024 01:05:19.852] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 01:05:54.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has reached the goal [Here They Come]
+[18Dec2024 01:06:36.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Sweet Dreams]
+[18Dec2024 01:06:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Sweet Dreams]
+[18Dec2024 01:07:21.947] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Dec2024 01:07:21.947] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[18Dec2024 01:10:20.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 lost connection: Disconnected
+[18Dec2024 01:10:20.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 left the game
