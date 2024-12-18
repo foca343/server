@@ -2295,3 +2295,45 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [18Dec2024 02:55:40.601] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
 [18Dec2024 02:55:40.601] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
 [18Dec2024 02:55:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was doomed to fall
+[18Dec2024 02:57:41.816] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 02:57:41.824] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 02:57:48.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato was slain by Hoglin
+[18Dec2024 03:00:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Your First Receptacle]
+[18Dec2024 03:00:28.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Ice Bucket Challenge]
+[18Dec2024 03:01:02.307] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[18Dec2024 03:01:02.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[18Dec2024 03:01:02.380] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[18Dec2024 03:01:05.050] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[18Dec2024 03:01:05.050] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[18Dec2024 03:02:30.404] [Server thread/WARN] [tombstone/]: The death event of the player l33gato was canceled by another mod
+[18Dec2024 03:02:30.406] [Server thread/INFO] [tombstone/]: The player l33gato has successfully been saved
+[18Dec2024 03:02:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato fell from a high place
+[18Dec2024 03:03:40.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l33gato lost connection: Disconnected
+[18Dec2024 03:03:40.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato left the game
+[18Dec2024 03:04:01.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: l33gato[/100.88.205.60:51592] logged in with entity id 27754 at (-22.936453530498977, 62.56355426531187, 131.8302941142273)
+[18Dec2024 03:04:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato joined the game
+[18Dec2024 03:04:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l33gato has made the advancement [Mysterious Gift]
+[18Dec2024 03:04:27.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Ice Bucket Challenge]
+[18Dec2024 03:05:05.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has reached the goal [Bone Crusher]
+[18Dec2024 03:05:29.387] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[18Dec2024 03:05:29.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[18Dec2024 03:05:29.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[18Dec2024 03:05:29.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[18Dec2024 03:05:29.388] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[18Dec2024 03:05:29.394] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[18Dec2024 03:05:29.395] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[18Dec2024 03:05:29.395] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[18Dec2024 03:05:29.395] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[18Dec2024 03:05:29.395] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[18Dec2024 03:05:29.395] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[18Dec2024 03:05:29.405] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[18Dec2024 03:05:29.406] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[18Dec2024 03:06:04.449] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 03:06:04.451] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 03:06:13.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was doomed to fall by Husk
+[18Dec2024 03:07:10.425] [Server thread/WARN] [tombstone/]: The death event of the player Matiasx2738 was canceled by another mod
+[18Dec2024 03:07:10.428] [Server thread/INFO] [tombstone/]: The player Matiasx2738 has successfully been saved
+[18Dec2024 03:07:23.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 withered away
+[18Dec2024 03:13:11.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Who You Gonna Call?]
+[18Dec2024 03:17:17.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <l33gato> 66 99 591
+[18Dec2024 03:21:52.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l33gato moved too quickly! -2.200111409570141,-18.0,-3.5107481850889144
