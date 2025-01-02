@@ -1403,3 +1403,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [02Jan2025 22:28:54.587] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5292 ms
 [02Jan2025 22:28:54.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.094s)! For help, type "help"
 [02Jan2025 22:28:54.617] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jan2025 22:40:15.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rakuun_OwO[/100.88.205.60:52573] logged in with entity id 118 at (369.13387061961424, 72.0, 289.92500001192093)
+[02Jan2025 22:40:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO joined the game
+[02Jan2025 22:40:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 22:41:05.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Matiasx2738[/100.98.221.107:53146] logged in with entity id 567 at (368.6483944289857, 76.28600872167245, 291.08464313294485)
+[02Jan2025 22:41:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 joined the game
+[02Jan2025 22:42:40.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rakuun_OwO lost connection: Disconnected
+[02Jan2025 22:42:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
+[02Jan2025 22:42:43.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rakuun_OwO[/100.88.205.60:52586] logged in with entity id 854 at (372.997962516836, 72.0, 282.2840027487921)
+[02Jan2025 22:42:43.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO joined the game
+[02Jan2025 22:43:31.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rakuun_OwO lost connection: Disconnected
+[02Jan2025 22:43:31.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
+[02Jan2025 22:43:40.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rakuun_OwO[/100.88.205.60:52595] logged in with entity id 960 at (362.58799159601506, 72.0, 286.4212934706907)
+[02Jan2025 22:43:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO joined the game
+[02Jan2025 22:47:31.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rakuun_OwO lost connection: Disconnected
+[02Jan2025 22:47:31.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
