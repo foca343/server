@@ -2277,3 +2277,30 @@ java.lang.RuntimeException: Not a JSON object: "TFBiomes.SNOWY_FOREST"
 [02Jan2025 21:32:14.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 21:32:14.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jan2025 21:32:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 21:37:14.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:37:14.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:37:46.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has made the advancement [Glow and Behold!]
+[02Jan2025 21:37:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 21:38:01.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
+[02Jan2025 21:38:07.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Survival Mode]
+[02Jan2025 21:38:55.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Ol' Betsy]
+[02Jan2025 21:38:55.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Take Aim]
+[02Jan2025 21:39:56.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1183, l='ServerLevel[world]', x=372.50, y=72.00, z=297.64] died, message: 'Villager was shot by Matiasx2738'
+[02Jan2025 21:42:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Creative Mode]
+[02Jan2025 21:42:14.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Survival Mode]
+[02Jan2025 21:42:14.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:42:14.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:43:03.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the weather to clear]
+[02Jan2025 21:44:07.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
+[02Jan2025 21:44:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Sweet Dreams]
+[02Jan2025 21:44:13.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has made the advancement [Sweet Dreams]
+[02Jan2025 21:45:27.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
+[02Jan2025 21:46:17.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Creative Mode]
+[02Jan2025 21:47:14.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:47:14.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:47:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Survival Mode]
+[02Jan2025 21:47:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
+[02Jan2025 21:48:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
+[02Jan2025 21:50:54.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1173, l='ServerLevel[world]', x=368.49, y=72.00, z=294.67] died, message: 'Armorer was slain by Rakuun_OwO'
+[02Jan2025 21:52:14.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:52:14.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
