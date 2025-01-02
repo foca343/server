@@ -548,7 +548,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "golden_apple": "2025-01-02 21:51:03 +0000"
+      "golden_apple": "2025-01-02 21:51:03 +0000",
+      "melon_slice": "2025-01-02 23:01:32 +0000"
     },
     "done": false
   },
@@ -714,6 +715,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-02 23:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-02 23:01:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-02 22:51:03 +0000"
@@ -753,6 +766,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 22:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-02 23:01:12 +0000"
     },
     "done": true
   },

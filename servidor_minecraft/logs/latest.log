@@ -1428,3 +1428,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [02Jan2025 22:55:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
 [02Jan2025 22:55:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Survival Mode]
 [02Jan2025 22:56:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 22:59:48.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5242, l='ServerLevel[world]', x=381.68, y=78.00, z=240.68] died, message: 'Villager was slain by Matiasx2738'
+[02Jan2025 23:01:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
+[02Jan2025 23:01:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
+[02Jan2025 23:01:53.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
+[02Jan2025 23:02:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 23:03:50.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
