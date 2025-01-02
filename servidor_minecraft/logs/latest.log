@@ -1418,3 +1418,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [02Jan2025 22:43:40.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO joined the game
 [02Jan2025 22:47:31.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rakuun_OwO lost connection: Disconnected
 [02Jan2025 22:47:31.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
+[02Jan2025 22:49:25.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rakuun_OwO[/100.88.205.60:52836] logged in with entity id 4315 at (365.4108756713648, 72.0, 280.70525954148656)
+[02Jan2025 22:49:25.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO joined the game
+[02Jan2025 22:50:04.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 22:50:58.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 was killed
+[02Jan2025 22:50:58.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Killed Matiasx2738]
+[02Jan2025 22:55:07.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
+[02Jan2025 22:55:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 22:55:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
+[02Jan2025 22:55:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Survival Mode]
+[02Jan2025 22:56:10.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
