@@ -1437,3 +1437,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [02Jan2025 23:11:04.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has completed the challenge [Just a Flesh Wound]
 [02Jan2025 23:15:52.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Creative Mode]
 [02Jan2025 23:15:58.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
+[02Jan2025 23:49:12.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
+[02Jan2025 23:49:34.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5243, l='ServerLevel[world]', x=379.57, y=78.00, z=240.70] died, message: 'Farmer was slain by Zombie'
+[02Jan2025 23:51:51.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
+[02Jan2025 23:52:15.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 23:53:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
+[02Jan2025 23:53:39.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO was slain by Ferrous Wroughtnaut
+[02Jan2025 23:54:56.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
+[02Jan2025 23:57:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
+[02Jan2025 23:57:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 23:58:17.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rakuun_OwO lost connection: Disconnected
+[02Jan2025 23:58:17.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
+[02Jan2025 23:58:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jan2025 23:58:23.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jan2025 23:58:23.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jan2025 23:58:23.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 lost connection: Disconnected
+[02Jan2025 23:58:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 left the game
+[02Jan2025 23:58:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jan2025 23:58:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jan2025 23:58:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jan2025 23:58:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jan2025 23:58:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2025 23:58:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2025 23:58:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2025 23:58:24.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
