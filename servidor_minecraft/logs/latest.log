@@ -690,3 +690,11 @@ java.lang.RuntimeException: Not a JSON object: "TFBiomes.SNOWY_FOREST"
 [02Jan2025 21:47:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Survival Mode]
 [02Jan2025 21:48:02.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 13000]
 [02Jan2025 21:50:54.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1173, l='ServerLevel[world]', x=368.49, y=72.00, z=294.67] died, message: 'Armorer was slain by Rakuun_OwO'
+[02Jan2025 21:58:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Matiasx2738: Set own game mode to Creative Mode]
+[02Jan2025 22:01:51.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Acquire Hardware]
+[02Jan2025 22:02:03.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 has made the advancement [Monster Hunter]
+[02Jan2025 22:02:36.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/6115, l='ServerLevel[world]', x=341.64, y=79.00, z=240.63] died, message: 'Librarian was slain by Zombie'
+[02Jan2025 22:04:46.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set the time to 1000]
+[02Jan2025 22:05:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
+[02Jan2025 22:05:48.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has made the advancement [Stone Age]
+[02Jan2025 22:06:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has made the advancement [Monster Hunter]
