@@ -2316,3 +2316,11 @@ java.lang.RuntimeException: Not a JSON object: "TFBiomes.SNOWY_FOREST"
 [02Jan2025 22:05:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rakuun_OwO: Set own game mode to Creative Mode]
 [02Jan2025 22:05:48.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has made the advancement [Stone Age]
 [02Jan2025 22:06:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO has made the advancement [Monster Hunter]
+[02Jan2025 22:07:14.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:07:14.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:11:32.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rakuun_OwO lost connection: Disconnected
+[02Jan2025 22:11:32.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
+[02Jan2025 22:11:49.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1182, l='ServerLevel[world]', x=343.51, y=79.00, z=239.37] died, message: 'Toolsmith was shot by Matiasx2738'
+[02Jan2025 22:12:14.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 22:12:14.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 22:12:37.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/1153, l='ServerLevel[world]', x=343.69, y=78.94, z=246.31] died, message: 'Cleric was shot by Matiasx2738'
