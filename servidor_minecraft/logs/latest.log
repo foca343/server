@@ -702,3 +702,16 @@ java.lang.RuntimeException: Not a JSON object: "TFBiomes.SNOWY_FOREST"
 [02Jan2025 22:11:32.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rakuun_OwO left the game
 [02Jan2025 22:11:49.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/1182, l='ServerLevel[world]', x=343.51, y=79.00, z=239.37] died, message: 'Toolsmith was shot by Matiasx2738'
 [02Jan2025 22:12:37.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/1153, l='ServerLevel[world]', x=343.69, y=78.94, z=246.31] died, message: 'Cleric was shot by Matiasx2738'
+[02Jan2025 22:20:35.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Matiasx2738 lost connection: Disconnected
+[02Jan2025 22:20:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Matiasx2738 left the game
+[02Jan2025 22:25:46.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jan2025 22:25:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jan2025 22:25:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jan2025 22:25:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jan2025 22:25:47.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jan2025 22:25:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jan2025 22:25:48.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jan2025 22:25:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jan2025 22:25:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jan2025 22:25:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jan2025 22:25:48.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
