@@ -1,0 +1,52 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-03 18:08:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-03 18:08:35 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-03 18:08:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-01-03 18:08:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-01-03 18:08:35 +0000"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2025-01-03 18:10:12 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-01-03 18:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-01-03 18:08:36 +0000",
+      "minecraft:plains": "2025-01-03 18:10:12 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
